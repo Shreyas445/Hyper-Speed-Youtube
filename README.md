@@ -1,4 +1,4 @@
-# HyperSpeed Video 🚀
+# HyperSpeed Youtube Video upto 16x 🚀
 
 A next-level Manifest V3 Chrome extension that shatters the standard 2x playback limit, allowing you to force HTML5 video speeds up to 26x across the web. Features a custom, liquid-glass floating UI that works globally, even on embedded iframes.
 
